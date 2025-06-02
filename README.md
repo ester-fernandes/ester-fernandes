@@ -6,9 +6,10 @@
 
 #
 
-<p align="center" style="font-size:18px">
-  <span style="color:#571259"><strong>📊💻 Cientista de Dados 🔍📈</strong></span>
-</p>
+<h3 align="center" style="color:#571259; font-weight: 600;">
+  📊💻 Cientista de Dados 🔍📈
+</h3>
+
 
 <p align="center">
 Apaixonada por tecnologia, trilho meu caminho como Cientista de Dados e IA — este perfil é meu laboratório de aprendizado contínuo, onde construo, exploro e cresço a cada linha de código, registrando cada evolução. Tenho interesse especial pelos setores de agronegócio e saúde, mas estou aberta a oportunidades em diversas áreas que envolvam dados.
@@ -45,10 +46,10 @@ Apaixonada por tecnologia, trilho meu caminho como Cientista de Dados e IA — e
 #
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ester-fernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ester-fernandes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ester-fernandes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ester-fernandes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
 
 #
 
