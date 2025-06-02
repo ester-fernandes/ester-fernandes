@@ -16,11 +16,12 @@ Apaixonada por tecnologia, trilho meu caminho como Cientista de Dados com foco e
 </p>
 
 #
-
 <div align="center">
   <img src="https://i.postimg.cc/QNyBvzCT/Mulher-no-escrit-rio-moderno-de-dia-1.png" height="200px" alt="Imagem representando minha jornada" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://i.postimg.cc/QdWSvTJQ/octocat-1748890606932.png" height="200px" alt="Meu Octocat" style="background-color:#000000; border-radius: 12px; padding: 5px;" />
 </div>
-
+  
 #
 
 ## 🚀 Tecnologias e Ferramentas que já domino:
