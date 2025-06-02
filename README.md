@@ -12,7 +12,7 @@
 
 
 <p align="center">
-Apaixonada por tecnologia, trilho meu caminho como Cientista de Dados e IA — este perfil é meu laboratório de aprendizado contínuo, onde construo, exploro e cresço a cada linha de código, registrando cada evolução. Tenho interesse especial pelos setores de agronegócio e saúde, mas estou aberta a oportunidades em diversas áreas que envolvam dados.
+Apaixonada por tecnologia, trilho meu caminho como Cientista de Dados com foco em IA — este perfil é meu laboratório de aprendizado contínuo, onde construo, exploro e cresço a cada linha de código, registrando cada evolução.
 </p>
 
 #
