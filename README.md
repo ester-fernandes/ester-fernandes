@@ -11,7 +11,7 @@
 </h3>
 
 
-<p align="center">
+<p>
 Apaixonada por tecnologia, trilho meu caminho como Cientista de Dados com foco em IA — este perfil é meu laboratório de aprendizado contínuo, onde construo, exploro e cresço a cada linha de código, registrando cada evolução.
 </p>
 
