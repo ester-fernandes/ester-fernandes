@@ -6,7 +6,7 @@
 
 #
 
-<h3 align="center" style="color:#571259; font-weight: 600;">
+<h3 style="color:#571259; font-weight: 600;">
   📊💻 Cientista de Dados 🔍📈
 </h3>
 
