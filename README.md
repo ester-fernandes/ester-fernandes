@@ -36,13 +36,6 @@ Aqui você vai encontrar projetos, aprendizados e desafios que estou explorando 
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ester-fernandes&show_icons=true&theme=midnight-purple&count_private=true&locale=pt-br" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ester-fernandes&layout=compact&theme=midnight-purple&langs_count=6" height="150"/>
-</div>
-
----
-
 ### 🌐 Conecte-se comigo
 
 <div align="center">
