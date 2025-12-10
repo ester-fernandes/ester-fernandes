@@ -8,7 +8,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Apaixonada por tecnologia, estou trilhando minha jornada como *Cientista de Dados com foco em IA*.  
+Apaixonada por tecnologia, estou trilhando minha jornada em *Dados com foco em IA*.  
 Aqui você vai encontrar projetos, aprendizados e desafios que estou explorando com dedicação e propósito.
 
 ---
